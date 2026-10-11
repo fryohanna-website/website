@@ -1,0 +1,1 @@
+jQuery(".slider").owlCarousel({items:1,rtl:!0,nav:!0,dots:!1,autoHeight:!1,lazyLoadEager:1,onChanged:callback});function callback(event){document.body.scrollIntoView()}
